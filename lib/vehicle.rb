@@ -5,16 +5,16 @@ class Vehicle
   def initialize(wheel_size, wheel_number)
     @wheel_size = wheel_size
     @wheel_number = wheel_number
-  end
+  end # initialize
 
   # outputs a vroom sound
   def go
     "vrrrrrrrooom!"
-  end
+  end # go
 
   # outputs a message for filling up
   def fill_up_tank
     "filling up!"
-  end
+  end # filling_up_tank
 
 end
