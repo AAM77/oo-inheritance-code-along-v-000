@@ -17,4 +17,4 @@ class Vehicle
     "filling up!"
   end # filling_up_tank
 
-end
+end # Vehicle
